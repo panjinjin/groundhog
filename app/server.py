@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://https://drive.google.com/uc?export=download&id=1461E9pKBgb8Gsr2wnL4ftSW1tWnBkyTu'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1YvlE2_0dki6iHJ3kGhz-uJ9xtI1xM2tK'
 model_file_name = 'model'
 classes = ['groundhog', 'otter', 'beaver']
 path = Path(__file__).parent
